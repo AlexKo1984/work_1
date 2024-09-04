@@ -23,3 +23,5 @@ mkdir my_project
 cd my_project
 git init
 ```
+
+1. HEAD
